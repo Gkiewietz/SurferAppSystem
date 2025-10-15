@@ -19,7 +19,7 @@ export default function DataComparisonScreen() {
 
       <View style={styles.content}>
         <Text style={styles.text}>
-          Coming soon! This screen will show detailed comparisons between sessions.
+          Coming soon! 
         </Text>
       </View>
     </LinearGradient>
